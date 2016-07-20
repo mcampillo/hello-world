@@ -1,4 +1,4 @@
 # hello-world
 Learning how to use github
 
-Alright turns out this is the main one and now I am back on track.
+Alright turns out this is the branch one and now I am back on track.
